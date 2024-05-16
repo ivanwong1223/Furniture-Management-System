@@ -1,0 +1,5 @@
+IN0001, S0005, SP001, Rachel Wong, 0136896713, Solaris Dutamas, Modern desk with side shelves , 1, 2024-02-14, 1547.04
+IN0002, S0014, SP001, Ray, +60 12291921, C-01-10 Amadesa Resort Jalan 5/125 57100 Desa Petaling, Bedside table with storage shelf , 1, 2024-02-07, 706.38
+IN0003, S0002, SP001, brianna, 012233212, C-010, Modern desk with side shelves , 1, 2024-01-12, 1048.84
+IN0004, S0001, SP001, John Paulose, 0122334272, Vitality Condominiusm XQC, Chair, 2, 2024-01-13, 113.88
+IN0005, S0015, SP001, Helen, +60 196754321, 107 Taman Plentong Baru, Modern Home Modern Tv Table - Black Oak, 2, 2024-02-07, 1952.94

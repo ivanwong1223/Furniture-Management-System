@@ -1,0 +1,5 @@
+S0001, SP001, 2024-01-13, John Paulose, +60 127834562, Vitality Condominiusm, Modern desk with side shelves, Modern Home, 52.44, 53%, 2000, 2, Closed, In Progress, -
+S0002, SP001, 2024-01-12, Asian Jett, +60 137845690, 22 Maple Street, Modern desk with side shelves , Modern Home, 52.44, 53%, 2000, 1, Approved, In Progress, -
+S0003, SP001, 2024-01-14, Aiden Thien, +60 189765432, 14 Pine Road, Side table with removable tray, Modern Home, 172.14, 0%, 900, 1, Unapproved, Pending, -
+S0008, SP001, 2024-01-19, Joaqim, +60 111223344, Jlaan Jia Dutamas, Modern Zigzag TV Table , Modern Home, 172.14, 18%, 1099, 1, Closed, Workdone, -
+S0009, SP001, 2024-01-21, Ivan Wong, +60 127834562, Prima Duta Jalan Dutamas Kepong, Bed side table with storage shelf , Home Decor Center, 172.14, 72%, 2500, 1, Pending, Pending, -

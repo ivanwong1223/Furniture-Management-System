@@ -1,0 +1,6 @@
+A1000, Aiden, Password1!, admin, 0128391823, aiden@gmail.com, active
+O1002, Ivan Wang, Password1!, officer, 123123132, ivan@gmail.com, active
+SP001, John P, Password1!, salesperson, 0128391823, johnp1990@gmail.com, active
+SP002, pikxi, Password1!, salesperson, 0128391823, pikqi@gmail.com, active
+O1003, John, Password1!, officer, 01210212121, john@gmail.com, active
+O1004, Bryan Tan, Password1!, officer, 0122334272, bryanwee@gmail.com, active

@@ -1,0 +1,12 @@
+S0001, SP001, 2024-01-13, John Paulose, +60 127834562, Vitality Condominiusm, Modern desk with side shelves, Modern Home, 52.44, 53%, 2000, 2, Closed, In Progress, -
+S0002, SP001, 2024-01-12, Asian Jett, +60 137845690, 22 Maple Street, Modern desk with side shelves , Modern Home, 52.44, 53%, 2000, 1, Approved, In Progress, -
+S0003, SP001, 2024-01-14, Aiden Thien, +60 189765432, 14 Pine Road, Side table with removable tray, Modern Home, 172.14, 0%, 900, 1, Approved, Pending, -
+S0008, SP001, 2024-01-19, Joaqim, +60 111223344, Jlaan Jia Dutamas, Modern Zigzag TV Table , Modern Home, 172.14, 18%, 1099, 1, Approved, Pending, -
+S0009, SP001, 2024-01-21, Ivan Wong, +60 127834562, Prima Duta Jalan Dutamas Kepong, Bed side table with storage shelf , Home Decor Center, 172.14, 72%, 2500, 1, Pending, Pending, -
+S0010, SP002, 2024-01-21, John Paulose, +60 122334272, Amadesa Resort, Modern TV table , Modern Home, 172.14, 68%, 2000, 1, Approved, Pending, -
+S0011, SP002, 2024-01-21, Duke Dennis, +60 189765432, Kampung Nelayan baru, Bed side table with storage shelf , Modern Home, 172.14, 54%, 1200, 2, Workdone, Pending, -
+S0012, SP001, 2024-02-07, Mah Pik Qi, +60 196754321, Kepong Baru Avenue, Modern Zigzag TV Table , Modern Home, 172.14, 18%, 1099, 1, Pending, Pending, -
+S0013, SP001, 2024-02-07, Kai Cenat AMP, +60 127834562, J5 Birch Lane, Modern Zigzag TV Table , Modern Home, 172.14, 18%, 1099, 2, Pending, Pending, -
+S0014, SP001, 2024-02-07, Ray, +60 127834562, 9 Elm Court, Bedside table with storage shelf , Modern Home, 172.14, 58%, 1200, 1, Approved, In Progress, -
+S0015, SP001, 2024-02-07, Helen, +60 196754321, 107 Taman Plentong Baru, Modern Home Modern Tv Table - Black Oak, Modern Home Modern Tv Table   Black Oak, 172.14, 58%, 2000, 2, Closed, Workdone, -
+S0016, SP001, 2024-02-22, Harmes Rodri, +60 122334272, Asia Pacific Uni Jalan 5/125, Gray sofa bed, Arikaty, 172.14, 30%, 3999, 2, Approved, Pending, -
